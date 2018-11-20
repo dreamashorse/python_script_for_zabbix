@@ -1,0 +1,2 @@
+# python_script_for_zabbix
+为了拓展zabbix的功能写的一些简单python脚本
